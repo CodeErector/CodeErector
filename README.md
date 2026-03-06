@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Hamza! 👋 
 
-<!--
-**CodeErector/CodeErector** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Full Stack Software Engineer 
+I specialize in building robust web applications using the **MERN Stack** and modern **DevOps** practices. I believe in clean code, automated testing, and seamless deployments.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+
+* **Frontend:** React.js, Next.js, Redux, Bootstrap, Tailwind CSS.
+* **Backend:** Node.js, Express, PHP, Laravel.
+* **Databases:** MongoDB (NoSQL), MySQL (SQL).
+* **DevOps/Cloud:** Docker, GitHub Actions (CI/CD), AWS (EC2/S3), Azure.
+* **Methodology:** Agile/Scrum.
+
+---
+
+### 🔥 What I'm working on
+* 🐳 Containerizing MERN applications for scalable deployments.
+* 🤖 Automating workflows with GitHub Actions.
+* ☁️ Exploring Serverless architectures on AWS.
+
+---
+
+<!--### 📫 Connect with me:
+[Link to your LinkedIn] | [Link to your Portfolio]-->
